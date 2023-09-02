@@ -1,0 +1,16 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a background color to the whole page */
+  body {
+    background-color: #f0f0f0;
+  }
+  header, section, footer {
+    border: 2px solid #000;
+    margin: 20px;
+    padding: 20px;
+  }
+    
