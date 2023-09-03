@@ -1,0 +1,37 @@
+  /* Resets for browser-specific styling */
+body, h1, h2, h3, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* General styling */
+body {
+  background-color: #f0f0f0;
+}
+
+/* Portfolio Section */
+#portfolio {
+  border: 2px solid #000;
+  margin: 20px;
+  padding: 20px;
+}
+
+/* Category Styles */
+.category {
+  margin-top: 20px;
+}
+
+/* Project Styles */
+.project {
+  margin-top: 10px;
+}
+
+/* Testimonials */
+#testimonials {
+  margin-top: 20px;
+}
+
+/* Call to Action */
+#cta {
+  margin-top: 20px;
+}
